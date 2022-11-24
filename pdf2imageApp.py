@@ -38,6 +38,6 @@ def find_pdf_and_convert(p_input_folder, p_output_folder):
 
 
 if __name__ == '__main__':
-    input_folder = "./pdf2image/input"
-    output_folder = "./pdf2image/output"
+    input_folder = "./input"
+    output_folder = "./output"
     find_pdf_and_convert(input_folder, output_folder)

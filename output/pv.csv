@@ -1,9 +1,0 @@
-﻿PersistentVolume,mysql-pv
-PersistentVolume,mongodb-pv
-PersistentVolume,elasticsearch-pv
-PersistentVolume,minio-file-pv
-PersistentVolume,mongodb-pv
-PersistentVolume,backend-project-main-config-pv
-PersistentVolume,backend-project-main-job-config-pv
-PersistentVolume,etl-kafka
-PersistentVolume,etl-zookeeper
